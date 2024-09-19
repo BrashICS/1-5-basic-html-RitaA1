@@ -2,16 +2,13 @@ body, html {
     height: 100%;
 }
 
-/* The hero image */
+
 .xg {
   
-  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://static.wikia.nocookie.net/xg-music/images/0/06/XG_Something_Ain%27t_Right_1.jpg/revision/latest/");
 
-  /* Set a specific height */
   height: 150%;
 
-  /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
   background-size:cover;
