@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    width:100%;
+    margin: 0px;
+    padding:0px;
+    overflow-x: hidden;
+}
+
+.gx{
+
+
+   position: absolute; 
+    left: 0; 
+    top: 0; 
+    width: 100%; 
+    height: 80%; 
+    object-fit: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    /*height:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  position:absolute;*/
+}
