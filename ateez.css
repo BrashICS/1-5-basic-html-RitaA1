@@ -1,0 +1,57 @@
+body, html {
+    height: 100%;
+}
+
+
+.xg {
+  
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://static.wikia.nocookie.net/xg-music/images/0/06/XG_Something_Ain%27t_Right_1.jpg/revision/latest/");*/
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),  url("./images/ateez.jpg");
+
+  height: 150%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+
+  position:relative;
+}
+
+/*.xg_text {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size:2000%;
+}*/
+
+.xg_text {
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size:2000%;
+}
+
+.gx {
+  color:white;
+ text-align: center;
+ font-family:monospace;
+ 
+ 
+  
+}
+.gxx {
+  font-size: 310%;
+}
+
+.footer {
+  text-align: center;
+  color: black;
+  font-size:800%;
+}
