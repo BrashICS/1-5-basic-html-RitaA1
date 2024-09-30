@@ -50,9 +50,25 @@ body, html {
   font-family:monospace;
 }
 .gxx {
-  font-size: 310%;
+  font-size: 300%;
 }
+.ateg {
+  color:white;
+  font-family:monospace;
+}
+.ateezk {
+  background-color: rgb(18, 18, 18);
+  height:500px;
+  width:100%;
+}
+.ate {
+  float: left;
 
+}
+.gg {
+  float:right;
+  margin-right:40px;
+}
 
 .footer {
   text-align: center;
